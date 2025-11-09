@@ -1,0 +1,33 @@
+body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background-color: #fff;
+    }
+    footer {
+      border-top: 1px solid #ffffff;
+      background-color: #fff;
+      padding: 50px 0;
+    }
+    footer h5 {
+      font-weight: 700;
+      font-size: 18px;
+      color: #111;
+      margin-bottom: 15px;
+    }
+    footer ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    footer ul li {
+      margin-bottom: 8px;
+    }
+    footer ul li a {
+      text-decoration: none;
+      color: #222;
+      font-size: 15px;
+      transition: color 0.3s;
+    }
+    footer ul li a:hover {
+      text-decoration: underline;
+      color: #0074c2;
+    }
